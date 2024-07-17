@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">I'm a Master's student in Artificial Intelligence, eager to delve deeper into the field and explore its potential. This GitHub profile is my playground for learning and experimenting with AI and Deep Learning concepts.</h3>
 
-- 🔭 I’m currently working on **Deep Learnign usecases on the Medical(Tumor Detection) Field**
+- 🔭 I’m currently working on **Deep Learnign and Computational Neuroscience**
 
 - 🌱 I’m currently learning **Python,Tensorflow,Pands**
 
