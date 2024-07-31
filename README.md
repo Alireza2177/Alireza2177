@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any cool projects that can help me to learn**
 
-- 📫 How to reach me **Telegram: @Alireza217**
+- 📫 How to reach me **Telegram: @Alireza217 or Alireza.emad99@gmail.com**
 
 </p>
 
