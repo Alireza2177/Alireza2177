@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep Learnign and Computational Neuroscience**
 
-- 🌱 I’m currently learning **Python,Tensorflow,Pands**
+- 🌱 I’m currently learning **Python,Pytorch,Pands**
 
 - 👯 I’m looking to collaborate on **Any cool projects that can help me to learn**
 
