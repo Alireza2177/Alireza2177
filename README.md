@@ -24,43 +24,16 @@ My research focuses on developing reliable, interpretable, and generalizable AI 
   - Neuroimaging-based Machine Learning
   - Robustness and Generalization of AI Models
   - Foundation Models for Healthcare
-
-- 🧠 My recent research focuses on:
   - Structural MRI and resting-state fMRI analysis
   - Alzheimer’s disease modeling
   - Functional connectivity analysis
   - AI-driven biomarker discovery
   - Reliable evaluation of medical AI systems
 
-- 🚀 Currently exploring:
-  - Medical foundation models
-  - Self-supervised learning
-  - Representation learning
-  - Generative AI for healthcare
-  - NeuroAI
-
 - 📫 Contact:
   - Email: **Alireza221177@gmail.com**
   - GitHub: **github.com/Alireza2177**
   - LinkedIn: **linkedin.com/in/alireza-emad-669622337**
-
----
-
-## 🔬 Research Background
-
-My research aims to answer a central question:
-
-> How can we develop AI systems that are not only accurate, but also reliable, interpretable, and clinically meaningful?
-
-My work has involved:
-
-- Multimodal MRI-based Alzheimer's disease analysis
-- Explainable machine learning using SHAP
-- Leakage-aware model development
-- Nested cross-validation
-- Held-out-site evaluation
-- Acquisition-related domain shift analysis
-- Reproducible medical AI pipelines
 
 ---
 
@@ -104,16 +77,6 @@ My work has involved:
 - Functional Connectivity Analysis
 - Group ICA
 
-
-### Research & Engineering Tools
-
-- Git / GitHub
-- Docker
-- Linux
-- LaTeX
-- Jupyter Notebook
-
----
 ## 🤝 Collaboration
 
 I am interested in collaborating on projects involving:
