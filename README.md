@@ -64,44 +64,6 @@ My work has involved:
 
 ---
 
-## 📚 Selected Research Projects
-
-### 🧠 Explainable Multimodal AI for Alzheimer's Disease Diagnosis
-
-Developed a multimodal framework combining:
-
-- Structural MRI
-- Resting-state fMRI
-- Demographic information
-
-Techniques:
-- Neuroimaging preprocessing
-- Feature extraction
-- Machine learning classification
-- Explainability analysis
-- Biomarker interpretation
-
-
-### 🧬 Reliable Medical AI Evaluation
-
-Research projects focused on:
-
-- Preventing data leakage
-- Improving cross-site generalization
-- Understanding acquisition confounding
-- Evaluating model robustness
-
-
-### 🤖 Deep Learning & AI Projects
-
-Additional projects include:
-
-- Brain tumor MRI classification using CNNs
-- Genetic algorithms for optimization problems
-- Machine learning experimentation pipelines
-
----
-
 ## 🛠️ Languages & Tools
 
 ### Programming
@@ -152,18 +114,6 @@ Additional projects include:
 - Jupyter Notebook
 
 ---
-
-## 📖 Publications & Research
-
-Current research outputs include:
-
-- Dynamic-support-aware multimodal MRI for Alzheimer's disease staging
-- Leakage-aware Group ICA for resting-state fMRI classification
-- Acquisition-phase confounding and cross-phase generalization in MRI classifiers
-
-
----
-
 ## 🤝 Collaboration
 
 I am interested in collaborating on projects involving:
