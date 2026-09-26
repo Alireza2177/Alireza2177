@@ -161,9 +161,6 @@ Current research outputs include:
 - Leakage-aware Group ICA for resting-state fMRI classification
 - Acquisition-phase confounding and cross-phase generalization in MRI classifiers
 
-More details:
-- Google Scholar: [Link]
-- ORCID: [Link]
 
 ---
 
